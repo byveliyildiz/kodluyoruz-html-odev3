@@ -1,2 +1,3 @@
-# kodluyoruz_google
-Kodluyoruz.org Google
+# Kodluyoruz.org - HTML Odev3
+
+Veli Can Yıldız
