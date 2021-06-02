@@ -1,3 +1,3 @@
-# Kodluyoruz.org - HTML Odev3
+# Kodluyoruz.org - HTML - Odev3
 
 Veli Can Yıldız
